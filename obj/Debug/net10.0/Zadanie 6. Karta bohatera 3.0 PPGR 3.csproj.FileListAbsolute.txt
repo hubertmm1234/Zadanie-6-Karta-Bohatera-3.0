@@ -1,0 +1,14 @@
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\bin\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.exe
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\bin\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.deps.json
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\bin\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.runtimeconfig.json
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\bin\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.dll
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\bin\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.pdb
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.AssemblyInfoInputs.cache
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.AssemblyInfo.cs
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.csproj.CoreCompileInputs.cache
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.dll
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\refint\Zadanie 6. Karta bohatera 3.0 PPGR 3.dll
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.pdb
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\Zadanie 6. Karta bohatera 3.0 PPGR 3.genruntimeconfig.cache
+C:\Users\s37530\RiderProjects\Zadanie 6. Karta bohatera 3.0 PPGR 3\Zadanie 6. Karta bohatera 3.0 PPGR 3\obj\Debug\net10.0\ref\Zadanie 6. Karta bohatera 3.0 PPGR 3.dll
